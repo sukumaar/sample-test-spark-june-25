@@ -1,0 +1,1 @@
+Main code is inside App.scala and tests are inside AppTest.scala also included sample file in test resource
